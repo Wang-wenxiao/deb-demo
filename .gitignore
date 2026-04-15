@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.deb
+out/
+.DS_Store
+Thumbs.db
